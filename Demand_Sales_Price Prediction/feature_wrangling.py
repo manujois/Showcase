@@ -6,7 +6,7 @@ import configparser as cp
 import pandas as pd
 
 #only minimal data concepts are demonstrated here. 
-#There is a separate folder for data concepts. 
+#There is another folder for data concepts. 
 #that covers- Feature analysis, Outlier treatment, feature reduction, PCA etc.
 
 #this functionality is used to get the details from config file
